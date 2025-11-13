@@ -5,8 +5,6 @@
 This project implements a **Retrieval-Augmented Generation (RAG)** chatbot that answers employee questions based only on predefined company policy documents.  
 It uses **Gemini** for both embedding and generation, **Chroma** as a local vector database, and **Gradio** for a user-friendly web interface.
 
-Unlike frameworks such as LangChain, this implementation is built **manually from scratch**, giving full control over chunking, embedding, vector search, and prompt engineering.
-
 ---
 
 ## Core Tech Stack
