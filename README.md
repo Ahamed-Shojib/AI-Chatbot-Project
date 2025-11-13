@@ -35,7 +35,7 @@ Follow the steps below to set up and run the project locally.
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Ahamed-Shojib/AI-Chatbot-Project/
+git clone https://github.com/Ahamed-Shojib/AI-Chatbot-Project.git
 cd AI-Chatbot-Project
 ```
 
