@@ -1,0 +1,13 @@
+# Information Technology (IT) & Acceptable Use Policy
+
+## Section 1: Purpose
+This policy governs the use of all company-owned computing resources, including laptops, networks, and software.
+
+## Section 2: Password Security
+All user accounts must be protected by a strong password. Passwords must be at least 12 characters long, include a mix of uppercase, lowercase, numbers, and symbols. Passwords must be changed every 90 days.
+
+## Section 3: Software Installation
+Employees are prohibited from installing any unlicensed or unapproved software on company devices. All software requests must be submitted to the IT helpdesk.
+
+## Section 4: Data Security
+Do not store sensitive company data on personal devices or public cloud services (e.g., personal Google Drive, Dropbox). All company data must be stored on the company's official network drives or approved cloud platforms.
