@@ -124,11 +124,29 @@ Open your browser and visit:
 
 [http://127.0.0.1:7860](http://127.0.0.1:7860)
 
+<p align="center">
+  <img src="UI_1.PNG" width="800"/>
+</p>
+
+
 Now you can chat with your policy bot using queries such as:
 
 - How can employees request remote work?
 - What is the company's sick leave policy?
 - What is the password complexity requirement?
+
+---
+
+## ScreenShot of UI with Request
+<p align="center">
+  <img src="UI_2.PNG" width="800"/>
+</p>
+
+---
+## ScreenShot of UI with Response
+<p align="center">
+  <img src="UI_3.PNG" width="800"/>
+</p>
 
 ---
 
